@@ -1,0 +1,61 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.App figure {
+  width: 611px;
+  height: 611px;
+}
+
+.App figure img {
+  width: 100%;
+}
+
+.About {
+  margin-top: -150px;
+}
+
+.App p {
+  display: inline-block;
+  width: 19px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.App button {
+  width: 40px;
+  height: 30px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.App span {
+  margin-left: 25px;
+}
+
+.adToCart {
+  margin-top: 60px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  width: 200px;
+}
+
+.changeImage {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.changeImage figure {
+  width: 100px;
+  height: 100px;
+}
+
+.changeImage figure img {
+  width: 100%;
+}

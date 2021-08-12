@@ -1,0 +1,63 @@
+.App {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+}
+
+.dflex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.title h2 {
+  font-size: 21px;
+}
+
+.title p {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.title h5 {
+  font-size: 18px;
+}
+
+.col1 {
+  width: 23%;
+  margin-bottom: 35px;
+}
+
+.title figure {
+  width: 202px;
+  height: 202px;
+  margin: auto;
+}
+
+.title figure img {
+  width: 100%;
+}
+
+.title .button {
+  display: block;
+  margin: auto;
+}
+
+.store {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.App h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.store p {
+  font-size: 21px;
+}

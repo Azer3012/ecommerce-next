@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.App {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-right: 50px;
+}
+
+.categories {
+  padding-left: 50px;
+}
+
+.col1 {
+  width: 30%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.col1 h3 {
+  font-size: 21px;
+}
+
+.col1 span {
+  font-size: 16px;
+}
+
+.App figure {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.App figure img {
+  width: 100%;
+}
+
+.App .col1 button {
+  display: block;
+  margin-top: 15px;
+  margin-left: 80px;
+}

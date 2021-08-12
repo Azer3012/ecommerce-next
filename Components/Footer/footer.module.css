@@ -1,0 +1,29 @@
+.topFooter {
+  background: #faf9f6;
+  height: 306px;
+}
+.bottomFooter {
+  height: 102px;
+  background: #f7f4ed;
+}
+.upperPart {
+  border-bottom: 1px solid #e0e0e0;
+  height: 170px;
+  padding: 30px;
+}
+
+.upperPart ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.upperPart ul li {
+  list-style: none;
+}
+
+.upperPart ul:nth-child(2) {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+}

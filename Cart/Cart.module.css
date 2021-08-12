@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.App figure {
+  width: 100px;
+  height: 100px;
+}
+
+.App figure img {
+  width: 100%;
+}

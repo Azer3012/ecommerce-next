@@ -1,0 +1,7 @@
+.Similars {
+  display: flex;
+}
+
+.Similars img {
+  width: 150px;
+}

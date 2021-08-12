@@ -1,0 +1,16 @@
+.flexdirection {
+  display: flex;
+  flex-direction: column;
+}
+
+.dnone {
+  display: none;
+  /* display: flex;
+    flex-direction: column; */
+}
+
+.dblock {
+  display: block;
+  /* display: flex; */
+  flex-direction: column;
+}
